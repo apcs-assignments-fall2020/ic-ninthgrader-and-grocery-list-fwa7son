@@ -5,9 +5,6 @@ public class NinthGrader {
     public Student(String firstName, String lastName){
         super(firstName, lastName, 2024);
     }
-    public Student(){
-        super("Finn", "Watson", 2024);
-    }
     public void doSomething(){
         System.out.println("I am working on a stats project");
     }
